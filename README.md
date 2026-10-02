@@ -1,16 +1,27 @@
-## Hi there 👋
+# Igor Rodrigues
 
-<!--
-**Cazubii/Cazubii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fundador da BezierClick**  
+Crio soluções digitais para ajudar pequenas e médias empresas a atrair, automatizar e crescer.
 
-Here are some ideas to get you started:
+[Visite a BezierClick](https://bezierclick.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minha trajetória
+
+Sou técnico de informática, formado em Programação pelo Centro Paula Souza em 2011. No mesmo ano, representei a ETEC de Cotia na Feira Estadual de Tecnologia do Centro Paula Souza.
+
+Hoje, à frente da BezierClick, trabalho para transformar necessidades de negócio em soluções digitais práticas.
+
+## O que fazemos na BezierClick
+
+- Websites e e-commerce
+- Software à medida
+- Automação e integrações
+- Soluções com inteligência artificial
+
+## Projeto em destaque
+
+- [veenttoCRM](https://github.com/Cazubii/veenttoCRM) — CRM open source para vendas por WhatsApp, com IA. É um fork de DeskcommCRM.
+
+---
+
+Para conhecer o nosso trabalho: [bezierclick.com](https://bezierclick.com)
